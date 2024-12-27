@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RJV26
-- 👀 I’m interested in ... Programming.Technology, Crypto, Games.
-- 🌱 I’m currently learning ... Blockchain
+- 👀 I’m interested in ... Programming.Technology, Games.
+- 🌱 I’m currently working in Nokia.
 - 📫 reach me @ rajivyadav417@gmail.com
 
 <!---
